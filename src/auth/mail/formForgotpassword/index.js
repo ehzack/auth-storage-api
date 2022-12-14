@@ -17,7 +17,7 @@ module.exports = function (UUID, lang) {
             table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;} /* Remove spacing between tables in Outlook 2007 and up */
             img{-ms-interpolation-mode: bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
             body{
-            background-image: url("http://api.skiliks.net:4103/images/backgroundMailing.png");
+            background-image: url("http://assets.elhedadi.io:4103/images/backgroundMailing.png");
             background-repeat: no-repeat;
             background-size: cover;
             background-color: #333;

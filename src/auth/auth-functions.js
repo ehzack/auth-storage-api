@@ -15,7 +15,7 @@ const {
 } = require("../config");
 
 let transport = nodemailer.createTransport({
-  name: "one-time.be",
+  name: "elhedadi.com",
   host: "ssl0.ovh.net",
   port: 465,
   secure: true,
